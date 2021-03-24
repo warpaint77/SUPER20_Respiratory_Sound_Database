@@ -2,4 +2,4 @@
 
 Link para os dados: https://drive.google.com/drive/folders/1HAz0epFjPcipkb7HppZiGpgyBkGv-T8P?usp=sharing 
 
-Faça o download dos dados e salve no seu google drive respeitando a hierarquia dos diretórios.
+Faça o download do diretório lstm_data e salve no seu google drive respeitando a hierarquia dos diretórios (MyDrive/lstm_data/).
